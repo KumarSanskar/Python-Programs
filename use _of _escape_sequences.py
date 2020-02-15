@@ -1,0 +1,5 @@
+print("English using Escape Sequences:")
+print("For New Line: use \\n \n")
+print("Languages:\nPython\nC\nJava\nC++\nRuby\n")
+print("For Using Tab Space: Use \\t \t")
+print("\tPython")
